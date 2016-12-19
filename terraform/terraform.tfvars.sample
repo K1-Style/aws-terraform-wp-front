@@ -1,0 +1,28 @@
+aws_access_key = ""
+aws_secret_key = ""
+
+aws_db_username = ""
+aws_db_password = ""
+
+aws_db_wp = ""
+aws_db_wp_username = ""
+
+aws_key_name = ""
+ssh_key_file = ""
+
+bucket_name = ""
+index = ""
+
+acm_certificate_arn = ""
+
+aws_vpc_name = ""
+aws_subnet_public_name = ""
+aws_subnet_private_db1 = ""
+aws_subnet_private_db2 = ""
+aws_internet_gateway_name = ""
+aws_route_table_name = ""
+aws_security_group_web_name = ""
+aws_security_group_db_name = ""
+aws_db_subnet_group_name = ""
+aws_db_instance_identifer = ""
+aws_instance_name = ""
